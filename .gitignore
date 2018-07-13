@@ -1,7 +1,7 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
 /node_modules
-/bower_components
+/bower_componentsff
 package-lock.json
 /.idea
 #System Files
